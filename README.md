@@ -75,7 +75,7 @@ sudo apt install gnome-tweak-tool
 gnome-tweaks
 ```
 
-Go to Fonts, edit Monospace Text to `MesloLGM Nerd Font Regular`. I use size 12. 
+Go to Fonts, edit Monospace Text to `MesloLGM Nerd Font Regular`. I use size 11. 
 
 ## 4. Install Oh-my-zsh Plugins
 
@@ -102,6 +102,8 @@ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/theme
 ## 6. Configuration
 
 Download the `.zshrc` file from this repo and overwrite the file in home directory (`~` or `/home/$USER`)
+
+GNOME Terminal -> Preferences -> Profiles -> Text -> Initial Terminal Size 125 x 45
 
 Restart Zsh
 
