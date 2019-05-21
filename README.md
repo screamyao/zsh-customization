@@ -75,7 +75,7 @@ sudo apt install gnome-tweak-tool
 gnome-tweaks
 ```
 
-Go to Fonts, edit Monospace Text to `MesloLGM Nerd Font Regular`. I use size 11. 
+Go to Fonts, edit Monospace Text to `MesloLGM Nerd Font Regular`. I use size 11.
 
 ## 4. Install Oh-my-zsh Plugins
 
