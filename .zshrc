@@ -81,14 +81,13 @@ DEFAULT_USER=$USER
 POWERLEVEL9K_MODE='nerdfont-complete'
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(context dir_writable dir anaconda vcs)
 POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(status
-				    command_execution_time
 				    root_indicator
 				    history
 				    ram
 				    disk_usage
 				    time)
 POWERLEVEL9K_PROMPT_ON_NEWLINE=true
-POWERLEVEL9K_RPROMPT_ON_NEWLINE=false
+POWERLEVEL9K_RPROMPT_ON_NEWLINE=true
 POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 
 source $ZSH/oh-my-zsh.sh
