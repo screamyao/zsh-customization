@@ -103,7 +103,9 @@ git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/theme
 
 Download the `.zshrc` file from this repo and overwrite the file in home directory (`~` or `/home/$USER`)
 
-GNOME Terminal -> Preferences -> Profiles -> Text -> Initial Terminal Size 125 x 45
+GNOME Terminal -> Preferences -> Profiles -> Text -> Initial Terminal Size: 125 x 45
+
+GNOME Terminal -> Preferences -> Profiles -> Colors -> Built-in schemes: Tango dark / Tango (for both `Text and Background Color` and `Palette` sections)
 
 Restart Zsh
 
